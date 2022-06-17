@@ -1,0 +1,25 @@
+/* Austin Napierski 6/16 */
+
+.footer{
+    text-align: center;
+    font-size: 12px;
+    float: inline-end;
+}
+
+.navbar{
+    float: right;
+    margin-right: 15px;
+}
+.bg{
+    background-color: lightgray;
+}
+
+div{
+    margin-right: 35px;
+    margin-left: 12px
+};
+
+.header{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+}
